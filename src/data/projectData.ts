@@ -1032,122 +1032,122 @@ export const projectData: ProjectDetail[] = [
       },
     ],
   },
-  {
-    id: "10",
+  // {
+  //   id: "10",
 
-    name: "Homewood Suites",
-    location: "Cheshire, USA",
-    desc: [
-      "The Hilton Homewood Suites in Cheshire, Connecticut offers a perfect blend of comfort and convenience for both business and leisure travelers.",
-      "Featuring fully equipped kitchens, cozy living spaces, and a close proximity to corporate & industrial hubs, this property is an ideal choice for both extended stays and quick getaways.",
-    ],
-    type: "Commercial",
-    year: "TBD",
-    state: "Ongoing",
-    units: "",
-    products: [],
-    bannerImage: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/detail-banner.jpg",
-    mbBannerImage: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/mb-detail-banner.jpg",
-    projectPoster: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/projectposter-10.jpg",
-    recommendedSwiperImages: [
-      {
-        id: 1,
-        image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/swiper1.jpg",
-      },
-      {
-        id: 2,
-        image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/swiper2.jpg",
-      },
-      {
-        id: 3,
-        image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/swiper3.jpg",
-      },
-      {
-        id: 4,
-        image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/swiper4.jpg",
-      },
-    ],
-    materialsGridImages: [
-      {
-        id: 1,
-        image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/materials1.jpg",
-      },
-      {
-        id: 2,
-        image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/materials2.jpg",
-      },
-      {
-        id: 3,
-        image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/materials3.jpg",
-      },
-      {
-        id: 4,
-        image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/materials4.jpg",
-      },
-    ],
-    relatedProjects: [
-      {
-        id: 11,
-        image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p11/projectposter-11.jpg",
-        name: "Botanic",
-        location: "Miami, USA",
-      },
-      {
-        id: 1,
-        image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p1/projectposter-1.jpg",
-        name: "Darling Square North East",
-        location: "Sydney, Australia",
-      },
-      {
-        id: 2,
-        image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p2/projectposter-2.jpg",
-        name: "The Ritz Carlton",
-        location: "Perth, Australia",
-      },
-      {
-        id: 3,
-        image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p3/projectposter-3.jpg",
-        name: "Melbourne Square",
-        location: "Melbourne, Australia",
-      },
-      {
-        id: 4,
-        image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p4/projectposter-4.jpg",
-        name: "Rosewood Residences",
-        location: "Doha, Qatar",
-      },
-      {
-        id: 5,
-        image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p5/projectposter-5.jpg",
-        name: "Jia Baidao Apartments",
-        location: "Chengdu, China",
-      },
-      {
-        id: 6,
-        image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p6/projectposter-6.jpg",
-        name: "Lamborghini Apartments",
-        location: "Chengdu, China",
-      },
-      {
-        id: 7,
-        image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p7/projectposter-7.jpg",
-        name: "Nobu Hotel Al Khobar",
-        location: "Al Khobar, Saudi Arabia",
-      },
-      {
-        id: 8,
-        image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p8/projectposter-8.jpg",
-        name: "Villa Luminosa ",
-        location: "Miami, USA ",
-      },
-      {
-        id: 9,
-        image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p9/projectposter-9.jpg",
-        name: "Villa Verdant",
-        location: "Miami, USA",
-      },
-    ],
-  },
+  //   name: "Homewood Suites",
+  //   location: "Cheshire, USA",
+  //   desc: [
+  //     "The Hilton Homewood Suites in Cheshire, Connecticut offers a perfect blend of comfort and convenience for both business and leisure travelers.",
+  //     "Featuring fully equipped kitchens, cozy living spaces, and a close proximity to corporate & industrial hubs, this property is an ideal choice for both extended stays and quick getaways.",
+  //   ],
+  //   type: "Commercial",
+  //   year: "TBD",
+  //   state: "Ongoing",
+  //   units: "",
+  //   products: [],
+  //   bannerImage: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/detail-banner.jpg",
+  //   mbBannerImage: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/mb-detail-banner.jpg",
+  //   projectPoster: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/projectposter-10.jpg",
+  //   recommendedSwiperImages: [
+  //     {
+  //       id: 1,
+  //       image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/swiper1.jpg",
+  //     },
+  //     {
+  //       id: 2,
+  //       image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/swiper2.jpg",
+  //     },
+  //     {
+  //       id: 3,
+  //       image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/swiper3.jpg",
+  //     },
+  //     {
+  //       id: 4,
+  //       image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/swiper4.jpg",
+  //     },
+  //   ],
+  //   materialsGridImages: [
+  //     {
+  //       id: 1,
+  //       image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/materials1.jpg",
+  //     },
+  //     {
+  //       id: 2,
+  //       image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/materials2.jpg",
+  //     },
+  //     {
+  //       id: 3,
+  //       image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/materials3.jpg",
+  //     },
+  //     {
+  //       id: 4,
+  //       image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p10/materials4.jpg",
+  //     },
+  //   ],
+  //   relatedProjects: [
+  //     {
+  //       id: 11,
+  //       image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p11/projectposter-11.jpg",
+  //       name: "Botanic",
+  //       location: "Miami, USA",
+  //     },
+  //     {
+  //       id: 1,
+  //       image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p1/projectposter-1.jpg",
+  //       name: "Darling Square North East",
+  //       location: "Sydney, Australia",
+  //     },
+  //     {
+  //       id: 2,
+  //       image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p2/projectposter-2.jpg",
+  //       name: "The Ritz Carlton",
+  //       location: "Perth, Australia",
+  //     },
+  //     {
+  //       id: 3,
+  //       image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p3/projectposter-3.jpg",
+  //       name: "Melbourne Square",
+  //       location: "Melbourne, Australia",
+  //     },
+  //     {
+  //       id: 4,
+  //       image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p4/projectposter-4.jpg",
+  //       name: "Rosewood Residences",
+  //       location: "Doha, Qatar",
+  //     },
+  //     {
+  //       id: 5,
+  //       image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p5/projectposter-5.jpg",
+  //       name: "Jia Baidao Apartments",
+  //       location: "Chengdu, China",
+  //     },
+  //     {
+  //       id: 6,
+  //       image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p6/projectposter-6.jpg",
+  //       name: "Lamborghini Apartments",
+  //       location: "Chengdu, China",
+  //     },
+  //     {
+  //       id: 7,
+  //       image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p7/projectposter-7.jpg",
+  //       name: "Nobu Hotel Al Khobar",
+  //       location: "Al Khobar, Saudi Arabia",
+  //     },
+  //     {
+  //       id: 8,
+  //       image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p8/projectposter-8.jpg",
+  //       name: "Villa Luminosa ",
+  //       location: "Miami, USA ",
+  //     },
+  //     {
+  //       id: 9,
+  //       image: "https://fileprod.obs.cn-east-3.myhuaweicloud.com/mail/images/projects/p9/projectposter-9.jpg",
+  //       name: "Villa Verdant",
+  //       location: "Miami, USA",
+  //     },
+  //   ],
+  // },
   {
     id: "11",
 
