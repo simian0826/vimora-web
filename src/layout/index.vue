@@ -173,10 +173,10 @@
         <div class="contact-section">
           <div class="menu-title">CONTACT</div>
           <div class="contact-item-container">
-            <a href="tel:+16896980467" class="contact-item">
+            <!-- <a href="tel:+16896980467" class="contact-item">
               <img :src="PhonePrefixIcon" class="contact-icon" />
               +1 (689) 698-0467
-            </a>
+            </a> -->
             <a href="mailto:info@vimora.it" class="contact-item">
               <img :src="MailPrefixIcon" class="contact-icon" />
               info@vimora.it
