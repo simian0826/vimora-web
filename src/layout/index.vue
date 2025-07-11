@@ -261,11 +261,11 @@ const footerNav = ref<FooterNavItem[]>([
     sectionName: "CONTACT US",
     link: "/contact",
     children: [
-      {
-        prefixIcon: PhonePrefixIcon,
-        sectionName: "+1 (689) 698-0467",
-        link: "tel:+16896980467",
-      },
+      // {
+      //   prefixIcon: PhonePrefixIcon,
+      //   sectionName: "+1 (689) 698-0467",
+      //   link: "tel:+16896980467",
+      // },
       {
         prefixIcon: MailPrefixIcon,
         sectionName: "info@vimora.it",
